@@ -15,7 +15,6 @@ Here's a better breakdown of my projects:
 ## What I've Worked On
 + ### Cloud and AI
   + [Cloud Pulse](https://github.com/Chicago-Sprinterns-2026/CloudPulse), a product synthesizer and agentic chatbot for Google Cloud Platform products, built at Google (Sprinternship 2026)<br>
-    ![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
     ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
     ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
     ![FastAPI](https://img.shields.io/badge/FastAPI-005571.svg?style=for-the-badge&logo=fastapi)
@@ -26,7 +25,6 @@ Here's a better breakdown of my projects:
   + [Geomagnetic Storm Predictor](https://github.com/anothergrind/geomagnetic-storm-predictor), built through AI4ALL Ignite<br>
     ![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
     ![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-    ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
     ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
     ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
     ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
@@ -65,7 +63,7 @@ Here's a better breakdown of my projects:
     ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
     
 + ### Embedded Systems
-  + [Gesture Controller Car](https://github.com/hafsahkhan1/GestureControlledCar), built for CS 362 Spring 2026<br>
+  + [Gesture Controlled Car](https://github.com/hafsahkhan1/GestureControlledCar), built for CS 362 Spring 2026<br>
     ![Adafruit](https://img.shields.io/badge/Adafruit-%23000000.svg?style=for-the-badge&logo=adafruit&logoColor=white)
     ![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-%2300979D.svg?style=for-the-badge&logo=Arduino&logoColor=white)
     ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
