@@ -13,8 +13,8 @@ Most of the projects I have contributed to here on GitHub were from hackathons, 
 Here's a better breakdown of my projects:
 
 ## What I've Worked On
-+ ### Cloud and AI
-  + [Cloud Pulse](https://github.com/Chicago-Sprinterns-2026/CloudPulse), a product synthesizer and agentic chatbot for Google Cloud Platform products, built at Google (Sprinternship 2026)<br>
++ ### Cloud, Data, and AI/ML
+  + [Cloud Pulse](https://github.com/Chicago-Sprinterns-2026/CloudPulse), a product synthesizer and agentic chatbot for Google Cloud Platform products, built at Google Summer 2026<br>
     ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
     ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
     ![FastAPI](https://img.shields.io/badge/FastAPI-005571.svg?style=for-the-badge&logo=fastapi)
@@ -29,6 +29,11 @@ Here's a better breakdown of my projects:
     ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
     ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
     ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+    ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+  + [Social Media Account Biopsy](https://github.com/hafsahkhan1/online-account-biopsy), data visualizations built for CS 377 Fall 2026<br>
+    ![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+    ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+    ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 + ### Web Development
   + Check out my [personal website](https://hafsahs-website.vercel.app/), built during UIC WiCS Dev Project Spring 2026<br>
@@ -55,7 +60,13 @@ Here's a better breakdown of my projects:
     ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
  
 + ### Application Design
-  + [Java Weather App](https://github.com/ethanGitStuff/Project2CS342#), built for CS 342 Spring 202<br>
+  + [Java Checkers App](https://github.com/ethanGitStuff/Project3Checkers), built for CS 342 Spring 2026<br>
+    ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+    ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white)
+    ![Maven](https://img.shields.io/badge/apachemaven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white)
+    ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
+    ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+  + [Java Weather App](https://github.com/ethanGitStuff/Project2CS342#), built for CS 342 Spring 2026<br>
     ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
     ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white)
     ![Maven](https://img.shields.io/badge/apachemaven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white)
